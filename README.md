@@ -1,4 +1,4 @@
-# Disclamer (I CANT PUT SOUCE CAUSE OF GITHUB IM SORRY)
+# Disclamer
 
 <p align="center">
   <a href="#"><img src="https://i.imgur.com/MgeSrJB.png"></a>
