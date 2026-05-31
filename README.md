@@ -2,7 +2,7 @@
   <a href="#"><img src="https://i.imgur.com/MgeSrJB.png"></a>
 </p>
 
-# 💬 GorillaCaptions
+# 💬 GorillaCaptions ![downloads](https://img.shields.io/github/downloads/DeezVrOfficial/GorillaCaptions/total)
 GorillaCaptions is an accessibility mod for **Gorilla Tag** that lets you see what people are saying in-game as speech bubbles above their heads. This mod is fully legal and complies with the Gorilla Tag Terms of Service.
 
 ## ❓ How does it work?
